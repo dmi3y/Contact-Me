@@ -1,0 +1,14 @@
+.contactme{
+width:400px;
+}
+.contactme-row{
+margin:20px 0;
+}
+.contactme textarea{
+width:100%;
+height:200px;
+}
+.contactme-row input{
+float:right;
+width:250px;
+}
