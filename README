@@ -1,0 +1,5 @@
+Contact Me - this is simple Joomla! module which is developed to make contacts in easy way.
+It just do simple task, sends information to email. No database storage or other tracks.
+Almost zero configuration.
+In standard package included two layouts, simple contact and contact with attachment.
+You may switch them in advanced section of module configuration.
