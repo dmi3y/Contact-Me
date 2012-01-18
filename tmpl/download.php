@@ -1,7 +1,7 @@
 <?php
 // no direct access
 defined('_JEXEC') or die;
-JHTML::_('behavior.formvalidation');
+if(class_exists('JHTML'))
 $doc = & JFactory::getDocument();
 $doc->addScript(JURI::base().'modules/mod_contactme/include/helper.js');
 $doc->addStyleSheet(JURI::base().'modules/mod_contactme/include/helper.css');
